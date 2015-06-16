@@ -1,0 +1,16 @@
+{
+  "name": "@woe-edu/autoprefix",
+  "description": "style auto prefixer",
+  "repository": "git://github.com/weo-edu/autoprefix.git",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@weo-edu/is": "^0.1.0",
+    "object-assign": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "2.x",
+    "standard": "^4.0.0"
+  }
+}
