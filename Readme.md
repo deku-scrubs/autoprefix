@@ -7,7 +7,7 @@ Style auto prefixer. Thank you [jsxstyle](https://github.com/petehunt/jsxstyle).
 
 ## Installation
 
-    $ npm install @weo-edu/autoprefix
+    $ npm install @deku-scrubs/autoprefix
 
 
 ## Example
@@ -19,7 +19,7 @@ var style = {
 
 autoprefix(style)
 // {
-//   userSelect: 'none', 
+//   userSelect: 'none',
 //   WebkitUserSelect: 'none'
 //   MozUserSelect: 'none'
 //   msUserSelect: 'none'
