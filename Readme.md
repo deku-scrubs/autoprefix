@@ -1,7 +1,7 @@
 
 # autoprefix
 
-[ ![Codeship Status for weo-edu/autoprefix](https://img.shields.io/codeship/f36ec0a0-f5e9-0132-fc07-764c17a205db/master.svg)](https://codeship.com/projects/85904) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[ ![Codeship Status for weo-edu/autoprefix](https://img.shields.io/codeship/bfc02270-1073-0133-2878-72eed9846b85/master.svg)](https://codeship.com/projects/92037) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Style auto prefixer. Thank you [jsxstyle](https://github.com/petehunt/jsxstyle).
 
